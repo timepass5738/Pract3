@@ -6,3 +6,5 @@ DI0                  Data In            18            24
 
 Create a folder, land that folder in cmd and type command:
 wget https://raspberrytips.nl/files/tm1637.py
+
+Type for O/P: python clock.py
